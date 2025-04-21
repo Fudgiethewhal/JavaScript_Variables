@@ -3,8 +3,25 @@ console.log(
   "Follow the steps in the README.md file to complete the exercises:\n==========\n"
 );
 
-// Exercise 1
+const firstName = "Fudgie";
+let lastName = "The Whale";
+var age = 3;
 
-// Exercise 2
+lastName = "Hernandez";
+age = 33;
 
-// Exercise 3
+let language = "Javascript";
+let createdYear = "1995"
+let isCaseSensitive = true;
+
+consol.Log(`${language} was first realesed in ${createdYear}.`);
+
+
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = "M";
+
+
