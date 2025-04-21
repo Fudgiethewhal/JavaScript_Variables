@@ -24,4 +24,10 @@ let stock = 0;
 let inStock = false;
 let selectedSize = "M";
 
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
 
+console.log(`${title} by ${author} is ${pageCount} pages long.`);
